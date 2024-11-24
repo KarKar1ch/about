@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat" alt="SCSS" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
 </div>
-<h2>📫 Свяжитесь со мной</h2>
+<h2 align = "center">📫 Свяжитесь со мной</h2>
 <p>
   Telegramm: @K4r_Kar1ch
 </p>
